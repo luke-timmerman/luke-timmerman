@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Luke Timmerman! I love to play around with different programming languages and operating systems. I'm interested in learning more about low level programming languages, like C!
+
+In my free time, I like to mountain bike, play piano, and play sand volleyball. 
+
 <!--
 **luke-timmerman/luke-timmerman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
